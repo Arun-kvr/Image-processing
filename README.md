@@ -8,7 +8,9 @@ Input Images :
 <img src="mario.png" alt="Mario game image">
 <br>
 Search image :
+<br>
 <img src="mariocoin.png" alt ="Mario coin image">
 <br>
 Result image :
+<br>
 <img src="res.png" alt="Resultant image">
