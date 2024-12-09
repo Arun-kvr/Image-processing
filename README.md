@@ -14,3 +14,6 @@ Search image :
 Result image :
 <br>
 <img src="res.png" alt="Resultant image">
+<br>
+
+<b> Extracting images from pdf <b>
